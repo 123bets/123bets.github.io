@@ -1,0 +1,65 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 07/05/2018 09:11
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("../fonts/Flaticon.eot");
+  src: url("../fonts/Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/Flaticon.woff") format("woff"),
+       url("../fonts/Flaticon.ttf") format("truetype"),
+       url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+font-style: normal;
+}
+
+.flaticon-001-bitcoin-20:before { content: "\f100"; }
+.flaticon-002-bitcoin-19:before { content: "\f101"; }
+.flaticon-003-shield:before { content: "\f102"; }
+.flaticon-004-saving:before { content: "\f103"; }
+.flaticon-005-safebox:before { content: "\f104"; }
+.flaticon-006-bitcoin-18:before { content: "\f105"; }
+.flaticon-007-bitcoin-17:before { content: "\f106"; }
+.flaticon-008-bitcoin-16:before { content: "\f107"; }
+.flaticon-009-graphic-card:before { content: "\f108"; }
+.flaticon-010-gold:before { content: "\f109"; }
+.flaticon-011-usb:before { content: "\f10a"; }
+.flaticon-012-bitcoin-15:before { content: "\f10b"; }
+.flaticon-013-bitcoin-14:before { content: "\f10c"; }
+.flaticon-014-bitcoin-13:before { content: "\f10d"; }
+.flaticon-015-encryption:before { content: "\f10e"; }
+.flaticon-016-dig:before { content: "\f10f"; }
+.flaticon-017-cryptocurrency-2:before { content: "\f110"; }
+.flaticon-018-cryptocurrency-1:before { content: "\f111"; }
+.flaticon-019-cryptocurrency:before { content: "\f112"; }
+.flaticon-020-bitcoin-12:before { content: "\f113"; }
+.flaticon-021-cloud:before { content: "\f114"; }
+.flaticon-022-blockchain:before { content: "\f115"; }
+.flaticon-023-bitcoins:before { content: "\f116"; }
+.flaticon-024-bitcoin-11:before { content: "\f117"; }
+.flaticon-025-bitcoin-10:before { content: "\f118"; }
+.flaticon-026-bitcoin-9:before { content: "\f119"; }
+.flaticon-027-bitcoin-8:before { content: "\f11a"; }
+.flaticon-028-bitcoin-7:before { content: "\f11b"; }
+.flaticon-029-bitcoin-6:before { content: "\f11c"; }
+.flaticon-030-bitcoin-5:before { content: "\f11d"; }
+.flaticon-031-bitcoin-4:before { content: "\f11e"; }
+.flaticon-032-bitcoin-3:before { content: "\f11f"; }
+.flaticon-033-bitcoin-2:before { content: "\f120"; }
+.flaticon-034-consulting:before { content: "\f121"; }
+.flaticon-035-bitcoin-1:before { content: "\f122"; }
+.flaticon-036-bitcoin:before { content: "\f123"; }
